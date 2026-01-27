@@ -39,13 +39,12 @@ Tujuan portofolio:
 ```
 cybersecurity-portfolio/
 │
-├── 01-introduction/
-├── 02-reconnaissance-scanning/
-├── 03-exploitation-documentation/
-├── 04-log-investigation/
-├── 05-report/
-└── evidence/
-```
+├── 1.Introduction/
+      ├── Summary.md
+├── 2.BlueTeam - Labs/
+      ├── 
+├── 3.RedTeam - Labs/
+      ├── 
 
 ---
 
