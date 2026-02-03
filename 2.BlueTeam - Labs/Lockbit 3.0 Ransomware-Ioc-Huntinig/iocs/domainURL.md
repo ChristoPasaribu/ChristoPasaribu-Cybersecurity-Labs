@@ -12,7 +12,7 @@
 ### 1. adobe-us-updatefiles[.]digital
 ![alt text](image-6.png)
 
-### 2. https://adobe-us-updatefiles.digital/index[.]php
+### 2. https[:]//adobe-us-updatefiles.digital/index.php
 ![alt text](image-7.png)
 
 ### 3. premiumize[.]com
