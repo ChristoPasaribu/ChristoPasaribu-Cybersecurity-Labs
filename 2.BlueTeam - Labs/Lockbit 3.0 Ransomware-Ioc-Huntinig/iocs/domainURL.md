@@ -10,16 +10,16 @@
 
 ## Threat Intelligence Result (Virus Total)![alt text](evidence/virustotal/image-2.png)
 ### 1. adobe-us-updatefiles[.]digital
-![alt text](image-6.png)
+![alt text](evidence/virustotal/domain.png)
 
 ### 2. https[:]//adobe-us-updatefiles.digital/index.php
-![alt text](image-7.png)
+![alt text](evidence/virustotal/url.png)
 
 ### 3. premiumize[.]com
-![alt text](image-8.png)
+![alt text](evidence/virustotal/domain-2.png)
 
 ### 4. anonfiles[.]com
-![alt text](image-9.png)
+![alt text](evidence/virustotal/domain-3.png)
 
 ### 5. transfer[.]sh
-![alt text](image-10.png)
+![alt text](evidence/virustotal/domain-4.png)
