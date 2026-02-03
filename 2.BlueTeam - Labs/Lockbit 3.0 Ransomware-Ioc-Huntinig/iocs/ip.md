@@ -10,7 +10,7 @@
 
 ## Threat Intelligence Result (Virus Total)![alt text](image-2.png)
 ### 1. 193.201.9.224
-![alt text](/2.BlueTeam%20-%20Labs/Lockbit%203.0%20Ransomware-Ioc-Huntinig/iocs/evidence/virustoal/image.png)
+![alt text](evidence/virustotal/image.png)
 
 ### 2. 62.233.50.25
 ![alt text](image-3.png)
